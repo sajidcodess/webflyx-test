@@ -1,0 +1,23 @@
+[33mcommit 8a46d3e4a1012ac1bcf639725f5e5976ad978d29[m[33m ([m[1;36mHEAD -> [m[1;32madd_classics[m[33m)[m
+Author: sajidcodess <muhammadsajidkhan616@gmail.com>
+Date:   Mon Jun 24 02:18:14 2024 +0500
+
+    D: add classics.csv file
+
+[33mcommit d3401b0d327740719e0a88ce0de2764236486bc6[m[33m ([m[1;32mmain[m[33m)[m
+Author: sajidcodess <muhammadsajidkhan616@gmail.com>
+Date:   Mon Jun 24 01:15:10 2024 +0500
+
+    C: add quotes
+
+[33mcommit e26e5d4a6bf8afc42140d5de6945de15eac47eb8[m
+Author: sajidcodess <muhammadsajidkhan616@gmail.com>
+Date:   Sun Jun 23 23:40:22 2024 +0500
+
+    B: add titles
+
+[33mcommit c12c6ce0dfb50b55c5b4c5bbd612c259d524c6b2[m
+Author: sajidcodess <muhammadsajidkhan616@gmail.com>
+Date:   Sun Jun 23 16:58:01 2024 +0500
+
+    A: add contents.md
